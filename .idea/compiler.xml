@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Trello_QA_X" target="11" />
+      <module name="Trello_QA_X.main" target="11" />
+      <module name="Trello_QA_X.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
